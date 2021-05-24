@@ -1,0 +1,2 @@
+resource:
+  tasks: http://dummy.restapiexample.com/api/v1/employee
